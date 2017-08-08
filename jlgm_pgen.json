@@ -24,6 +24,7 @@
 		"2.1.0": "Added coordinate saver."
 	},
 	"1.12.1": {
-		"2.1.1": "Fix mcmod.info, now updated with gradle."
+		"2.1.1": "Update to 1.12.1\nFix mcmod.info, now updated with gradle."
+		"2.2.0": "Use Forge JSON based version checker instead of custom one."
 	}
 }
