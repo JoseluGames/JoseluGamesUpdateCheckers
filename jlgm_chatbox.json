@@ -1,0 +1,26 @@
+{
+	"homepage": "https://minecraft.curseforge.com/projects/chatbox",
+	"promos": {
+		"1.12.1-recommended": "2.1.1",
+		"1.12.1-latest": "2.1.1",
+		"1.12-recommended": "1.1.0",
+		"1.12-latest": "1.1.0",
+		"1.10.2-recommended": "0.4.0-hotfix",
+		"1.10.2-latest": "0.4.0-hotfix"
+	},
+	"1.10.2": {
+		"0.1.0": "First release.",
+		"0.1.1": "Fix non latin scripts showing as \"???\".",
+		"0.2.0": "Changed texture and model for the Chat Box.",
+		"0.3.0": "Add tips to the GUI.",
+		"0.4.0": "Add update changelog.",
+		"0.4.0-hotfix": "Fix bug getting radius out of bounds."
+	},
+	"1.12": {
+		"1.0.0": "Update to 1.12",
+		"1.1.0": "Fixed recipes."
+	},
+	"1.12.1": {
+		"1.2.0": "Update to 1.12.1\nUse Forge JSON based version checker instead of custom one."
+	}
+}
