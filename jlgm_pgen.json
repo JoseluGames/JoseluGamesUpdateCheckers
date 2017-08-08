@@ -1,29 +1,29 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/particle-generator",
 	"promos": {
-		"1.12.1-recommended": "1.12.1-2.1.1",
-		"1.12.1-latest": "1.12.1-2.1.1",
-		"1.12-recommended": "1.12-2.1.0",
-		"1.12-latest": "1.12-2.1.0",
-		"1.11.2-recommended": "1.11.2-1.0.1",
-		"1.11.2-latest": "1.11.2-1.0.1",
-		"1.10.2-recommended": "1.10.2-0.1.2-hotfix",
-		"1.10.2-latest": "1.10.2-0.1.2-hotfix"
+		"1.12.1-recommended": "2.1.1",
+		"1.12.1-latest": "2.1.1",
+		"1.12-recommended": "2.1.0",
+		"1.12-latest": "2.1.0",
+		"1.11.2-recommended": "1.0.1",
+		"1.11.2-latest": "1.0.1",
+		"1.10.2-recommended": "0.1.2-hotfix",
+		"1.10.2-latest": "0.1.2-hotfix"
 	},
 	"1.10.2": {
-		"1.10.2-0.1.0": "First release.",
-		"1.10.2-0.1.1": "Add crafting recipe\nFix item icon.",
-		"1.10.2-0.1.2": "Fix update link, please go to the curse forge web:\n https://minecraft.curseforge.com/projects/particle-generator",
-		"1.10.2-0.1.2-hotfix": "Fix update notification."
+		"0.1.0": "First release.",
+		"0.1.1": "Add crafting recipe\nFix item icon.",
+		"0.1.2": "Fix update link, please go to the curse forge web:\n https://minecraft.curseforge.com/projects/particle-generator",
+		"0.1.2-hotfix": "Fix update notification."
 	},
 	"1.11.2": {
-		"1.11.2-1.0.1": "Update to 1.11.2\nFix crash caused by having multiple points in the number fields."
+		"1.0.1": "Update to 1.11.2\nFix crash caused by having multiple points in the number fields."
 	},
 	"1.12": {
-		"1.12-2.0.0": "Update to 1.12",
-		"1.12-2.1.0": "Added coordinate saver."
+		"2.0.0": "Update to 1.12",
+		"2.1.0": "Added coordinate saver."
 	},
 	"1.12.1": {
-		"1.12.1-2.1.1": "Fix mcmod.info, now updated with gradle."
+		"2.1.1": "Fix mcmod.info, now updated with gradle."
 	}
 }
