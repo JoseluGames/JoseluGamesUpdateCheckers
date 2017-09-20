@@ -1,6 +1,8 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/chatbox",
 	"promos": {
+		"1.12.2-recommended": "1.3.0",
+		"1.12.2-latest": "1.3.0",
 		"1.12.1-recommended": "1.2.0",
 		"1.12.1-latest": "1.2.0",
 		"1.12-recommended": "1.1.0",
@@ -22,5 +24,8 @@
 	},
 	"1.12.1": {
 		"1.2.0": "Update to 1.12.1\nUse Forge JSON based version checker instead of custom one."
+	},
+	"1.12.2": {
+		"1.3.0": "Update to 1.12.2\nRemove last parts of my custom version checker."
 	}
 }
