@@ -26,6 +26,7 @@
 		"1.2.0": "Update to 1.12.1\nUse Forge JSON based version checker instead of custom one."
 	},
 	"1.12.2": {
-		"1.3.0": "Update to 1.12.2\nRemove last parts of my custom version checker."
+		"1.3.0": "Update to 1.12.2\nRemove last parts of my custom version checker.",
+		"1.3.1": "The custom name now is stored properly.\nUpdate forge."
 	}
 }
